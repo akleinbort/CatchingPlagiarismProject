@@ -26,7 +26,6 @@ We then set up a simple threshold modifier to suit the clients needs. For instan
 
 <div>
     <a href="https://plot.ly/~ambar132/36/?share_key=nwjKHveOEkPLgAdy41bKTn" target="_blank" title="Plot 36" style="display: block; text-align: center;"><img src="https://plot.ly/~ambar132/36.png?share_key=nwjKHveOEkPLgAdy41bKTn" alt="Plot 36" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="ambar132:36" sharekey-plotly="nwjKHveOEkPLgAdy41bKTn" src="https://plot.ly/embed.js" async></script>
 </div>
 
 *Click on the figure for zooming in or out and other interactive features*
@@ -37,7 +36,6 @@ We then set up a simple threshold modifier to suit the clients needs. For instan
 
 <div>
     <a href="https://plot.ly/~ambar132/36/?share_key=nwjKHveOEkPLgAdy41bKTn" target="_blank" title="Plot 36" style="display: block; text-align: center;"><img src="https://plot.ly/~ambar132/36.png?share_key=nwjKHveOEkPLgAdy41bKTn" alt="Plot 36" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="ambar132:36" sharekey-plotly="nwjKHveOEkPLgAdy41bKTn" src="https://plot.ly/embed.js" async></script>
 </div>
 
 *Click on the figure to isolate words and other interactive features*
