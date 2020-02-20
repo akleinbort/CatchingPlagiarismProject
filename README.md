@@ -35,8 +35,9 @@ We then set up a simple threshold modifier to suit the clients needs. For instan
 ### Clean Text Total Word Count Distribution
 
 <div>
-    <a href="https://plot.ly/~ambar132/36/?share_key=nwjKHveOEkPLgAdy41bKTn" target="_blank" title="Plot 36" style="display: block; text-align: center;"><img src="https://plot.ly/~ambar132/36.png?share_key=nwjKHveOEkPLgAdy41bKTn" alt="Plot 36" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <a href="https://plot.ly/~ambar132/38/?share_key=peuo48W8l9JMtbwUz32PxS" target="_blank" title="Plot 38" style="display: block; text-align: center;"><img src="https://plot.ly/~ambar132/38.png?share_key=peuo48W8l9JMtbwUz32PxS" alt="Plot 38" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
 </div>
+
 
 *Click on the figure to isolate words and other interactive features*
 
